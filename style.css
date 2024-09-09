@@ -1,0 +1,23 @@
+#image {
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 20px auto;
+  }
+  #paragraph {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  #loader {
+    width: 0;
+    height: 5px;
+    background-color: green;
+    margin: 0 auto;
+  }
+  #loader-container {
+    width: 300px;
+    height: 5px;
+    background-color:#ccc;
+    margin: 0 auto;
+  }
